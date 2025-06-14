@@ -26,7 +26,7 @@ Pillow (PIL) for image saving & loading
 🎯 How To Run It?
 1️⃣ Download or clone this repo:
 
-git clone https://github.com/sheetalbajaj04/ArtCell.git
+git clone https://github.com/Sheetal-cell/ArtCell.git
 cd ArtCell
 
 2️⃣ Install the only required library (if you don’t have it yet)
